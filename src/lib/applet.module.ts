@@ -18,6 +18,7 @@ import { SuccessPage } from './success/success.page';
 import {RatingPage} from './rating/rating.page';
 import { ProfilePage } from './profile/profile.page';
 import { ExplorePage } from './explore/explore.page';
+import {ContactsPage} from './contacts/contacts.page';
 import { ContactProfilePage } from './contact-profile/contact-profile.page';
 import {NotificationPage} from './notification/notification.page';
 import { SuccessPageModule } from './success/success.module';
@@ -47,6 +48,7 @@ import { AppletApiService } from '@agunity/provider';
           {path: 'rating', component: RatingPage},
           {path: 'profile', component: ProfilePage},
           {path: 'contactProfile', component: ContactProfilePage},
+          {path: 'contacts', component: ContactsPage},
 				],
 			},
 		]),

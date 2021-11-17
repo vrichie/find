@@ -1,14 +1,12 @@
 {
 	"APPLETS": {
 		"0-my-applet": {
-			"TITLE": "My Applet",
+			"TITLE": "Find",
 			"TABS": {
-				"EXPLORE": "EXPLORE",
-        "NOTIFICATION":"NOTIFICATION",
-        "PROFILEEDIT":"PROFILE-EDIT",
-        "RATING":"Rating",
-        "PROFILE":"Profile",
-        "CONTACTPROFILE":"ContactProfile"
+				"EXPLORE": "Explore",
+      			  "CONTACTS":"Contacts",
+      			  "PROFILE":"Profile",
+					"NOTIFICATION":"notifications"
 			},
 			"BUYNOW": "BUY NOW",
 			"LABELS": {
